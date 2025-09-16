@@ -1,4 +1,6 @@
+<div align="center">
 ## Красивый и лёгкий Telegram-бот
+</div>
 
 <p align="center">
   <a href="docs/photo/demo.gif">
