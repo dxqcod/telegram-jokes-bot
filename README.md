@@ -1,8 +1,8 @@
-# telegram-jokes-bot
+
 
 <p align="center">
-  <a href="docs/photo/ghostbusters.jpg">
-    <img src="docs/photo/ghostbusters.jpg" width="400" />
+  <a href="docs/photo/ghostbusters.png">
+    <img src="docs/photo/ghostbusters.png" width="400" />
   </a>
 </p>
 
