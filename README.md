@@ -18,7 +18,7 @@
 
 ## 📂 Структура репозитория
 ```
-telegram-jokebot/
+telegram-joke-bot/
 ├── README.md                # Основное описание проекта
 ├── docs/                    # Подробные описания, схемы
 │   └── photos/
