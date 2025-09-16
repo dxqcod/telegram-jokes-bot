@@ -133,3 +133,5 @@ await query.message.reply_text(joke)
   </a>
 </p>
 
+## ⚖️ Лицензия
+Проект распространяется под лицензией [MIT](LICENSE).
