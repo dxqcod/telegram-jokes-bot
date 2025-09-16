@@ -9,10 +9,10 @@
 ---
 
 <p align="center">
-  <a href="docs/photos/demo.gif">
+  <a href="docs/photo/demo.gif">
     <img src="docs/photos/demo.gif" width="400" />
   </a>
-  <a href="docs/photos/ghostbusters.png">
+  <a href="docs/photo/ghostbusters.png">
     <img src="docs/photos/ghostbusters.png" width="400" />
   </a>
 </p>
