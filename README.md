@@ -6,6 +6,8 @@
   </a>
 </p>
 
+---
+
 <p align="center">
   <a href="docs/photos/demo.gif">
     <img src="docs/photos/demo.gif" width="400" />
