@@ -3,7 +3,7 @@
 # Красивый и лёгкий Telegram-бот
 </div>
 
-<br/>
+
 
 <p align="center">
   <a href="docs/photo/demo.gif">
