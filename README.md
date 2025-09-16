@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="docs/photo/demo.gif">
-    <img src="docs/photo/demo.gif" width="200" />
+    <img src="docs/photo/demo.gif" width="300" />
   </a>
   <a href="docs/photo/ghostbusters.png">
     <img src="docs/photo/ghostbusters.png" width="400" />
