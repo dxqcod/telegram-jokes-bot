@@ -6,6 +6,15 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="docs/photos/demo.gif">
+    <img src="docs/photos/demo.gif" width="400" />
+  </a>
+  <a href="docs/photos/ghostbusters.png">
+    <img src="docs/photos/ghostbusters.png" width="400" />
+  </a>
+</p>
+
  Cоздан для того, чтобы дарить хорошее настроение. Всего одна кнопка — и вы получаете свежий анекдот, но не просто сухой текст, а с небольшими визуальными эффектами, смайликами и ощущением живости.
 
 ---
